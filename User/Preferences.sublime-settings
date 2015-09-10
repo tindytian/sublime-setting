@@ -4,19 +4,24 @@
 	"caret_extra_top": 0,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Hero Dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
 	"draw_centered": false,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": true,
-	"font_face": "Consolas",
+	"font_face": "Source Code Pro Medium",
+	"font_options":
+	[
+		"no_round"
+	],
 	"font_size": 13,
 	"gutter": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"JavaScript"
 	],
 	"indent_guide_options":
 	[
