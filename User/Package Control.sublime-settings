@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -13,6 +14,7 @@
 		"ConvertToUTF8",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"Material Theme",
 		"Oceanic Next Color Scheme",
 		"Package Control",
 		"SideBarEnhancements",
